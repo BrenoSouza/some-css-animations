@@ -1,4 +1,5 @@
 # CssAnimations
+Repositório com algumas animações que fiz usando apenas css/scss
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
